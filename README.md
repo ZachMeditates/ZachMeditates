@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Zach
 
-<!--
-**ZachMeditates/ZachMeditates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior QA & Compliance for regulated software.** 14+ years finding problems before they reach customers, across federal and state government, healthcare, financial services, and regulated enterprise and open-source software.
 
-Here are some ideas to get you started:
+I own quality and compliance for FDA 21 CFR Part 11, HIPAA, and GDPR products: test frameworks, CI pipelines, a QMS, and audit evidence. I also build the tooling around QA: data cleanup, reconciliation automation, and self-healing monitors that catch a data source breaking the same run it breaks, not three weeks later.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I am a trafficker of information. I know everything I can.
+
+### What I work with
+- **Test automation:** Playwright, Cypress, Selenium, Robot Framework, Katalon
+- **Compliance & risk:** FDA 21 CFR Part 11, SOC 2 Type II, HIPAA, GDPR, CMMI, audit evidence
+- **Data & automation:** Python, SQL, Snowflake, pandas, entity resolution / record linkage, REST API orchestration
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, Azure DevOps
+- **AI in practice:** prompt design, persistent memory, agentic loops, and the workflow patterns that turn model output into shipped work
+
+### On the side
+Self-healing data monitors that turn scattered government open-data into clean, deduplicated feeds with change detection and silent-break detection: the kind of pipeline that survives 9MB government PDFs, undocumented APIs that 403 on Tuesdays, and HTML tables nested inside Excel files nested inside ZIP downloads.
+
+📍 Pennsylvania, USA  ·  [LinkedIn](https://linkedin.com/in/zach-w)
