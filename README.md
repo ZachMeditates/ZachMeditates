@@ -16,7 +16,10 @@ I own quality and compliance for FDA 21 CFR Part 11, HIPAA, and GDPR products: t
 ### On the side
 Self-healing data monitors that turn scattered government open-data into clean, deduplicated feeds with change detection and silent-break detection: the kind of pipeline that survives 9MB government PDFs, undocumented APIs that 403 on Tuesdays, and HTML tables nested inside Excel files nested inside ZIP downloads.
 
-### Featured
-**[silent-break-detector](https://github.com/ZachMeditates/silent-break-detector)**: a dependency-free library that catches the data-source failure a 200 OK hides, a field quietly going null, a type drifting, or an empty payload returned as healthy. Learned baseline, tuned to not cry wolf. 59 tests, green CI.
+### Featured projects
+- **[silent-break-detector](https://github.com/ZachMeditates/silent-break-detector)**: catches the data-source failure a 200 OK hides, a field quietly going null, a type drifting, or an empty payload returned as healthy. Learned baseline, tuned to not cry wolf.
+- **[entity-resolver](https://github.com/ZachMeditates/entity-resolver)**: resolves messy duplicate records into canonical entities with phonetic blocking, Soft TF-IDF scoring, and a human-review queue for the ambiguous cases.
+
+Both dependency-free, tested against published reference values, green CI.
 
 📍 Pennsylvania, USA  ·  [LinkedIn](https://linkedin.com/in/zach-w)
