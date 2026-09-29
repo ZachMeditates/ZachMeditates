@@ -22,4 +22,4 @@ Self-healing data monitors that turn scattered government open-data into clean, 
 
 Both dependency-free, tested against published reference values, green CI.
 
-📍 Pennsylvania, USA  ·  [LinkedIn](https://linkedin.com/in/zach-w)
+[LinkedIn](https://linkedin.com/in/zach-w)
